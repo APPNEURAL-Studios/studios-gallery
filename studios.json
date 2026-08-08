@@ -9,7 +9,8 @@
     "serviceCount": 9,
     "url": "https://ai.studio.appneural.com",
     "devUrl": "https://ai-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/ai-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/ai-studio",
+    "thumb": "https://studios.appneural.com/thumbs/ai-studio.png"
   },
   {
     "slug": "automation-studio",
@@ -21,7 +22,8 @@
     "serviceCount": 4,
     "url": "https://automation.studio.appneural.com",
     "devUrl": "https://automation-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/automation-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/automation-studio",
+    "thumb": "https://studios.appneural.com/thumbs/automation-studio.png"
   },
   {
     "slug": "character-studio",
@@ -33,7 +35,8 @@
     "serviceCount": 7,
     "url": "https://character.studio.appneural.com",
     "devUrl": "https://character-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/character-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/character-studio",
+    "thumb": "https://studios.appneural.com/thumbs/character-studio.png"
   },
   {
     "slug": "commerce-studio",
@@ -45,7 +48,8 @@
     "serviceCount": 13,
     "url": "https://commerce.studio.appneural.com",
     "devUrl": "https://commerce-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/commerce-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/commerce-studio",
+    "thumb": "https://studios.appneural.com/thumbs/commerce-studio.png"
   },
   {
     "slug": "community-studio",
@@ -57,7 +61,8 @@
     "serviceCount": 7,
     "url": "https://community.studio.appneural.com",
     "devUrl": "https://community-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/community-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/community-studio",
+    "thumb": "https://studios.appneural.com/thumbs/community-studio.png"
   },
   {
     "slug": "content-studio",
@@ -69,7 +74,8 @@
     "serviceCount": 9,
     "url": "https://content.studio.appneural.com",
     "devUrl": "https://content-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/content-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/content-studio",
+    "thumb": "https://studios.appneural.com/thumbs/content-studio.png"
   },
   {
     "slug": "data-studio",
@@ -81,7 +87,8 @@
     "serviceCount": 4,
     "url": "https://data.studio.appneural.com",
     "devUrl": "https://data-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/data-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/data-studio",
+    "thumb": "https://studios.appneural.com/thumbs/data-studio.png"
   },
   {
     "slug": "design-studio",
@@ -93,7 +100,8 @@
     "serviceCount": 7,
     "url": "https://design.studio.appneural.com",
     "devUrl": "https://design-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/design-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/design-studio",
+    "thumb": "https://studios.appneural.com/thumbs/design-studio.png"
   },
   {
     "slug": "developer-studio",
@@ -105,7 +113,8 @@
     "serviceCount": 5,
     "url": "https://developer.studio.appneural.com",
     "devUrl": "https://developer-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/developer-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/developer-studio",
+    "thumb": "https://studios.appneural.com/thumbs/developer-studio.png"
   },
   {
     "slug": "document-studio",
@@ -117,7 +126,8 @@
     "serviceCount": 8,
     "url": "https://document.studio.appneural.com",
     "devUrl": "https://document-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/document-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/document-studio",
+    "thumb": "https://studios.appneural.com/thumbs/document-studio.png"
   },
   {
     "slug": "esports-studio",
@@ -129,7 +139,8 @@
     "serviceCount": 7,
     "url": "https://esports.studio.appneural.com",
     "devUrl": "https://esports-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/esports-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/esports-studio",
+    "thumb": "https://studios.appneural.com/thumbs/esports-studio.png"
   },
   {
     "slug": "event-studio",
@@ -141,7 +152,8 @@
     "serviceCount": 9,
     "url": "https://event.studio.appneural.com",
     "devUrl": "https://event-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/event-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/event-studio",
+    "thumb": "https://studios.appneural.com/thumbs/event-studio.png"
   },
   {
     "slug": "experience-studio",
@@ -153,7 +165,8 @@
     "serviceCount": 6,
     "url": "https://experience.studio.appneural.com",
     "devUrl": "https://experience-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/experience-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/experience-studio",
+    "thumb": "https://studios.appneural.com/thumbs/experience-studio.png"
   },
   {
     "slug": "feedback-studio",
@@ -165,7 +178,8 @@
     "serviceCount": 3,
     "url": "https://feedback.studio.appneural.com",
     "devUrl": "https://feedback-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/feedback-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/feedback-studio",
+    "thumb": "https://studios.appneural.com/thumbs/feedback-studio.png"
   },
   {
     "slug": "finance-studio",
@@ -177,7 +191,8 @@
     "serviceCount": 6,
     "url": "https://finance.studio.appneural.com",
     "devUrl": "https://finance-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/finance-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/finance-studio",
+    "thumb": "https://studios.appneural.com/thumbs/finance-studio.png"
   },
   {
     "slug": "game-studio",
@@ -189,7 +204,8 @@
     "serviceCount": 8,
     "url": "https://game.studio.appneural.com",
     "devUrl": "https://game-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/game-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/game-studio",
+    "thumb": "https://studios.appneural.com/thumbs/game-studio.png"
   },
   {
     "slug": "health-studio",
@@ -201,7 +217,8 @@
     "serviceCount": 6,
     "url": "https://health.studio.appneural.com",
     "devUrl": "https://health-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/health-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/health-studio",
+    "thumb": "https://studios.appneural.com/thumbs/health-studio.png"
   },
   {
     "slug": "integration-studio",
@@ -213,7 +230,8 @@
     "serviceCount": 3,
     "url": "https://integration.studio.appneural.com",
     "devUrl": "https://integration-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/integration-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/integration-studio",
+    "thumb": "https://studios.appneural.com/thumbs/integration-studio.png"
   },
   {
     "slug": "inventory-studio",
@@ -225,7 +243,8 @@
     "serviceCount": 5,
     "url": "https://inventory.studio.appneural.com",
     "devUrl": "https://inventory-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/inventory-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/inventory-studio",
+    "thumb": "https://studios.appneural.com/thumbs/inventory-studio.png"
   },
   {
     "slug": "iot-studio",
@@ -237,7 +256,8 @@
     "serviceCount": 4,
     "url": "https://iot.studio.appneural.com",
     "devUrl": "https://iot-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/iot-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/iot-studio",
+    "thumb": "https://studios.appneural.com/thumbs/iot-studio.png"
   },
   {
     "slug": "learning-studio",
@@ -249,7 +269,8 @@
     "serviceCount": 9,
     "url": "https://learning.studio.appneural.com",
     "devUrl": "https://learning-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/learning-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/learning-studio",
+    "thumb": "https://studios.appneural.com/thumbs/learning-studio.png"
   },
   {
     "slug": "legal-studio",
@@ -261,7 +282,8 @@
     "serviceCount": 5,
     "url": "https://legal.studio.appneural.com",
     "devUrl": "https://legal-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/legal-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/legal-studio",
+    "thumb": "https://studios.appneural.com/thumbs/legal-studio.png"
   },
   {
     "slug": "localization-studio",
@@ -273,7 +295,8 @@
     "serviceCount": 7,
     "url": "https://localization.studio.appneural.com",
     "devUrl": "https://localization-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/localization-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/localization-studio",
+    "thumb": "https://studios.appneural.com/thumbs/localization-studio.png"
   },
   {
     "slug": "marketplace",
@@ -285,7 +308,8 @@
     "serviceCount": 14,
     "url": "https://marketplace.studio.appneural.com",
     "devUrl": "https://marketplace-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/marketplace"
+    "repo": "https://github.com/APPNEURAL-Studios/marketplace",
+    "thumb": "https://studios.appneural.com/thumbs/marketplace.png"
   },
   {
     "slug": "media-studio",
@@ -297,7 +321,8 @@
     "serviceCount": 6,
     "url": "https://media.studio.appneural.com",
     "devUrl": "https://media-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/media-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/media-studio",
+    "thumb": "https://studios.appneural.com/thumbs/media-studio.png"
   },
   {
     "slug": "motion-studio",
@@ -309,7 +334,8 @@
     "serviceCount": 5,
     "url": "https://motion.studio.appneural.com",
     "devUrl": "https://motion-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/motion-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/motion-studio",
+    "thumb": "https://studios.appneural.com/thumbs/motion-studio.png"
   },
   {
     "slug": "notification-studio",
@@ -321,7 +347,8 @@
     "serviceCount": 5,
     "url": "https://notification.studio.appneural.com",
     "devUrl": "https://notification-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/notification-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/notification-studio",
+    "thumb": "https://studios.appneural.com/thumbs/notification-studio.png"
   },
   {
     "slug": "people-studio",
@@ -333,7 +360,8 @@
     "serviceCount": 6,
     "url": "https://people.studio.appneural.com",
     "devUrl": "https://people-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/people-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/people-studio",
+    "thumb": "https://studios.appneural.com/thumbs/people-studio.png"
   },
   {
     "slug": "presentation-studio",
@@ -345,7 +373,8 @@
     "serviceCount": 8,
     "url": "https://presentation.studio.appneural.com",
     "devUrl": "https://presentation-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/presentation-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/presentation-studio",
+    "thumb": "https://studios.appneural.com/thumbs/presentation-studio.png"
   },
   {
     "slug": "process-studio",
@@ -357,7 +386,8 @@
     "serviceCount": 4,
     "url": "https://process.studio.appneural.com",
     "devUrl": "https://process-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/process-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/process-studio",
+    "thumb": "https://studios.appneural.com/thumbs/process-studio.png"
   },
   {
     "slug": "research-studio",
@@ -369,7 +399,8 @@
     "serviceCount": 6,
     "url": "https://research.studio.appneural.com",
     "devUrl": "https://research-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/research-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/research-studio",
+    "thumb": "https://studios.appneural.com/thumbs/research-studio.png"
   },
   {
     "slug": "security-studio",
@@ -381,7 +412,8 @@
     "serviceCount": 3,
     "url": "https://security.studio.appneural.com",
     "devUrl": "https://security-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/security-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/security-studio",
+    "thumb": "https://studios.appneural.com/thumbs/security-studio.png"
   },
   {
     "slug": "social-studio",
@@ -393,7 +425,8 @@
     "serviceCount": 8,
     "url": "https://social.studio.appneural.com",
     "devUrl": "https://social-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/social-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/social-studio",
+    "thumb": "https://studios.appneural.com/thumbs/social-studio.png"
   },
   {
     "slug": "spatial-studio",
@@ -405,7 +438,8 @@
     "serviceCount": 6,
     "url": "https://spatial.studio.appneural.com",
     "devUrl": "https://spatial-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/spatial-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/spatial-studio",
+    "thumb": "https://studios.appneural.com/thumbs/spatial-studio.png"
   },
   {
     "slug": "support-studio",
@@ -417,7 +451,8 @@
     "serviceCount": 7,
     "url": "https://support.studio.appneural.com",
     "devUrl": "https://support-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/support-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/support-studio",
+    "thumb": "https://studios.appneural.com/thumbs/support-studio.png"
   },
   {
     "slug": "travel-studio",
@@ -429,7 +464,8 @@
     "serviceCount": 9,
     "url": "https://travel.studio.appneural.com",
     "devUrl": "https://travel-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/travel-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/travel-studio",
+    "thumb": "https://studios.appneural.com/thumbs/travel-studio.png"
   },
   {
     "slug": "voice-studio",
@@ -441,6 +477,7 @@
     "serviceCount": 4,
     "url": "https://voice.studio.appneural.com",
     "devUrl": "https://voice-dev.studio.appneural.com",
-    "repo": "https://github.com/APPNEURAL-Studios/voice-studio"
+    "repo": "https://github.com/APPNEURAL-Studios/voice-studio",
+    "thumb": "https://studios.appneural.com/thumbs/voice-studio.png"
   }
 ]

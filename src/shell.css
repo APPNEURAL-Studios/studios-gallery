@@ -32,6 +32,16 @@ body {
 }
 .wrap { max-width: 880px; margin: 0 auto; padding: 56px 24px 96px; }
 .loading { color: var(--muted); font-size: 14px; }
+.hero {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1200 / 630;
+  object-fit: cover;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  margin-bottom: 32px;
+  background: var(--panel);
+}
 .eyebrow {
   display: inline-block;
   font-size: 12px;

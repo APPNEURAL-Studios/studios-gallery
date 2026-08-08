@@ -13,8 +13,7 @@ function card(s) {
   a.target = "_blank";
   a.rel = "noopener";
   a.innerHTML = `
-    <div class="title">${s.title}</div>
-    <div class="tagline">${s.tagline}</div>
+    <img class="thumb" src="${s.thumb}" alt="${s.title} — ${s.tagline}" loading="lazy" width="1200" height="630">
     <div class="meta">
       <span>${s.editorCount} editors</span>
       <span>·</span>

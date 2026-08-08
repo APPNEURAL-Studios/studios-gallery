@@ -59,18 +59,17 @@ h1 { font-size: 44px; margin: 0 0 8px; letter-spacing: -0.02em; }
 }
 .card {
   display: block;
+  overflow: hidden;
   border: 1px solid var(--border);
   background: var(--panel);
   border-radius: 14px;
-  padding: 18px 20px;
   text-decoration: none;
   color: var(--text);
-  transition: background .12s ease, border-color .12s ease;
+  transition: border-color .12s ease, transform .12s ease;
 }
-.card:hover { background: var(--panel-hover); border-color: var(--accent); }
-.card .title { font-size: 17px; font-weight: 700; margin-bottom: 4px; }
-.card .tagline { font-size: 13.5px; color: var(--muted); margin-bottom: 12px; min-height: 34px; }
-.card .meta { display: flex; gap: 10px; font-size: 12px; color: var(--muted); }
+.card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.card .thumb { display: block; width: 100%; aspect-ratio: 1200 / 630; object-fit: cover; background: var(--panel-hover); }
+.card .meta { display: flex; gap: 10px; font-size: 12px; color: var(--muted); padding: 12px 16px; }
 .card .meta span { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
 .empty { color: var(--muted); font-size: 14px; }
 footer { border-top: 1px solid var(--border); padding-top: 24px; margin-top: 56px; font-size: 13px; color: var(--muted); }

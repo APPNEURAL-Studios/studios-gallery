@@ -63,6 +63,7 @@ const studios = slugs
       url: `https://${host}.studio.appneural.com`,
       devUrl: `https://${host}-dev.studio.appneural.com`,
       repo: `https://github.com/${ORG}/${slug}`,
+      thumb: `https://studios.appneural.com/thumbs/${slug}.png`,
     };
   })
   .sort((a, b) => a.title.localeCompare(b.title));

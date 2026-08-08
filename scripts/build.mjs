@@ -1,4 +1,6 @@
-// Builds dist/: copies the static shell from src/ and the committed studios.json.
+// Builds dist/: copies the static shell from src/, the committed studios.json,
+// and the thumbnail images (served at studios.appneural.com/thumbs/<slug>.png,
+// also referenced by every studio's own og:image meta tag).
 import { cpSync, mkdirSync, rmSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -11,5 +13,6 @@ mkdirSync(dist, { recursive: true });
 
 cpSync(join(root, "src"), dist, { recursive: true });
 cpSync(join(root, "studios.json"), join(dist, "studios.json"));
+cpSync(join(root, "assets", "thumbs"), join(dist, "thumbs"), { recursive: true });
 
 console.log("built dist/");

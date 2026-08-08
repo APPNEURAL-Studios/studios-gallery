@@ -89,6 +89,15 @@ async function main() {
   if (metaDesc) metaDesc.setAttribute("content", data.description);
 
   app.innerHTML = "";
+  app.appendChild(
+    el("img", {
+      class: "hero",
+      src: `https://studios.appneural.com/thumbs/${data.slug}.png`,
+      alt: `${data.title} — ${data.tagline}`,
+      width: "1200",
+      height: "630",
+    })
+  );
   app.appendChild(el("span", { class: "eyebrow", text: "APPNEURAL Studios" }));
   app.appendChild(el("h1", { text: data.title }));
   app.appendChild(el("p", { class: "tagline", text: data.tagline }));
