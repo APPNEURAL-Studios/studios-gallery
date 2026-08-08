@@ -1,0 +1,77 @@
+:root {
+  --bg: #0b0d12;
+  --panel: #12151c;
+  --panel-hover: #171b25;
+  --border: #1f2430;
+  --text: #e8eaf0;
+  --muted: #9aa2b1;
+  --accent: #7c9cff;
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f6f7fb;
+    --panel: #ffffff;
+    --panel-hover: #f0f2f9;
+    --border: #e4e7ef;
+    --text: #171a21;
+    --muted: #5b6270;
+    --accent: #4a63e0;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+  line-height: 1.5;
+}
+.wrap { max-width: 1080px; margin: 0 auto; padding: 56px 24px 96px; }
+header { margin-bottom: 8px; }
+.eyebrow {
+  display: inline-block;
+  font-size: 12px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+h1 { font-size: 44px; margin: 0 0 8px; letter-spacing: -0.02em; }
+.sub { font-size: 17px; color: var(--muted); margin: 0 0 28px; }
+#search {
+  width: 100%;
+  max-width: 420px;
+  padding: 11px 16px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  font-size: 15px;
+  outline: none;
+}
+#search:focus { border-color: var(--accent); }
+.count { font-size: 13px; color: var(--muted); margin: 28px 0 16px; }
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 14px;
+}
+.card {
+  display: block;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  border-radius: 14px;
+  padding: 18px 20px;
+  text-decoration: none;
+  color: var(--text);
+  transition: background .12s ease, border-color .12s ease;
+}
+.card:hover { background: var(--panel-hover); border-color: var(--accent); }
+.card .title { font-size: 17px; font-weight: 700; margin-bottom: 4px; }
+.card .tagline { font-size: 13.5px; color: var(--muted); margin-bottom: 12px; min-height: 34px; }
+.card .meta { display: flex; gap: 10px; font-size: 12px; color: var(--muted); }
+.card .meta span { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+.empty { color: var(--muted); font-size: 14px; }
+footer { border-top: 1px solid var(--border); padding-top: 24px; margin-top: 56px; font-size: 13px; color: var(--muted); }
+footer a { color: var(--accent); text-decoration: none; }

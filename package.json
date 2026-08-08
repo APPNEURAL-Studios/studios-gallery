@@ -1,0 +1,19 @@
+{
+  "name": "@appneural/studios-gallery",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Directory of every APPNEURAL studio, served at studios.appneural.com",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "data": "node scripts/build-data.mjs",
+    "dev": "node scripts/build.mjs && npx wrangler dev",
+    "deploy": "npm run build && npx wrangler deploy --env production"
+  },
+  "devDependencies": {
+    "wrangler": "^4.119.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
